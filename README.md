@@ -1,6 +1,3 @@
-# Retail_Performance_Analysis
-Retail performance analysis: KPI visualization, sales trends, and inventory optimization using Excel
-
 # 🏪 Retail Performance Analysis & Business Intelligence Dashboard
 ### Project #1 · Data Analyst Portfolio · Hugo Ernesto Aguilar Gallardo
 
